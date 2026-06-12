@@ -1,69 +1,61 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#05070B"/>
-      <stop offset="0.42" stop-color="#0B1020"/>
-      <stop offset="1" stop-color="#061C1A"/>
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset="0.48" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#061B19"/>
     </linearGradient>
-    <linearGradient id="signal" x1="92" y1="314" x2="1168" y2="96" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="92" y1="320" x2="1188" y2="76" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.44" stop-color="#A7F3D0"/>
+      <stop offset="0.46" stop-color="#A7F3D0"/>
       <stop offset="1" stop-color="#F8D66D"/>
     </linearGradient>
-    <radialGradient id="aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(986 118) rotate(146) scale(408 250)">
-      <stop stop-color="#38BDF8" stop-opacity="0.26"/>
-      <stop offset="0.62" stop-color="#14B8A6" stop-opacity="0.08"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 112) rotate(146) scale(430 260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.26"/>
+      <stop offset="0.58" stop-color="#14B8A6" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
-      <circle cx="0" cy="0" r="1" fill="#FFFFFF" fill-opacity="0.15"/>
+      <circle cx="0" cy="0" r="1" fill="#FFFFFF" fill-opacity="0.14"/>
     </pattern>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#000000" flood-opacity="0.42"/>
+      <feDropShadow dx="0" dy="24" stdDeviation="30" flood-color="#000000" flood-opacity="0.44"/>
     </filter>
   </defs>
 
   <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
   <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
-  <rect width="1280" height="420" rx="28" fill="url(#aura)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glow)"/>
 
-  <g opacity="0.68">
-    <path d="M72 318C163 281 223 275 292 221C376 155 446 119 535 142C628 166 665 244 762 240C879 236 932 127 1041 103C1106 89 1164 103 1210 130" stroke="url(#signal)" stroke-width="3"/>
-    <path d="M72 350C177 326 263 312 350 264C440 215 526 206 618 238C724 275 808 321 926 284C1034 250 1108 188 1210 201" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.4"/>
-    <path d="M72 214C179 191 256 197 331 169C432 131 521 92 624 118C713 141 764 188 850 179C958 168 1053 82 1210 82" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.2"/>
-  </g>
-
-  <g opacity="0.78">
-    <circle cx="292" cy="221" r="4" fill="#A7F3D0"/>
-    <circle cx="535" cy="142" r="4" fill="#38BDF8"/>
-    <circle cx="762" cy="240" r="4" fill="#F8D66D"/>
-    <circle cx="1041" cy="103" r="4" fill="#A7F3D0"/>
+  <g opacity="0.72">
+    <path d="M74 330C168 294 234 280 304 226C394 157 474 110 568 139C652 165 699 236 793 231C904 224 963 132 1066 104C1127 88 1179 97 1212 118" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M74 361C184 335 274 316 363 267C458 214 543 204 636 237C738 273 825 318 938 282C1042 249 1115 187 1212 199" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1.4"/>
+    <path d="M74 217C180 195 261 197 336 168C436 130 523 94 624 118C716 140 768 187 852 178C962 166 1057 82 1212 82" stroke="#FFFFFF" stroke-opacity="0.075" stroke-width="1.2"/>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="72" y="66" width="1136" height="288" rx="24" fill="#05070B" fill-opacity="0.58" stroke="#FFFFFF" stroke-opacity="0.11"/>
+    <rect x="72" y="66" width="1136" height="288" rx="24" fill="#030712" fill-opacity="0.6" stroke="#FFFFFF" stroke-opacity="0.11"/>
   </g>
 
-  <g transform="translate(112 100)">
-    <text x="0" y="34" fill="#A7F3D0" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="5">MARKETS / DATA / AI SYSTEMS</text>
-    <text x="0" y="112" fill="#F8FAFC" font-size="56" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">BELIEVER. TRADER.</text>
-    <text x="0" y="176" fill="#F8FAFC" font-size="56" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">DATA ANALYST.</text>
-    <text x="2" y="224" fill="#CBD5E1" font-size="24" font-family="Inter, Segoe UI, Arial, sans-serif">Applied statistics for decision intelligence.</text>
-    <text x="2" y="262" fill="#E2E8F0" font-size="24" font-family="Inter, Segoe UI, Arial, sans-serif">Market sentiment, AI workflows, and operating systems built for leverage.</text>
+  <g transform="translate(112 98)">
+    <text x="0" y="34" fill="#A7F3D0" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="5">FAITH / MARKETS / AI-NATIVE SYSTEMS</text>
+    <text x="0" y="112" fill="#F8FAFC" font-size="58" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">BELIEVER.</text>
+    <text x="0" y="178" fill="#F8FAFC" font-size="58" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">TRADER.</text>
+    <text x="0" y="244" fill="#F8FAFC" font-size="58" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">AI ARCHITECT.</text>
   </g>
 
-  <g transform="translate(875 88)">
-    <rect x="0" y="0" width="292" height="78" rx="14" fill="#0F172A" fill-opacity="0.74" stroke="#38BDF8" stroke-opacity="0.23"/>
-    <text x="22" y="30" fill="#94A3B8" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif">TRADER</text>
-    <text x="22" y="58" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">4Y / 1000x Record</text>
+  <g transform="translate(765 92)">
+    <rect x="0" y="0" width="374" height="74" rx="14" fill="#0F172A" fill-opacity="0.78" stroke="#A7F3D0" stroke-opacity="0.22"/>
+    <text x="22" y="29" fill="#94A3B8" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif">BELIEVER</text>
+    <text x="22" y="56" fill="#F8FAFC" font-size="21" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Christian faith, baptized at 18</text>
 
-    <rect x="0" y="101" width="292" height="78" rx="14" fill="#0F172A" fill-opacity="0.74" stroke="#A7F3D0" stroke-opacity="0.22"/>
-    <text x="22" y="131" fill="#94A3B8" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif">AI BUILDER</text>
-    <text x="22" y="159" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Dashboard / ERP / Blog</text>
+    <rect x="0" y="96" width="374" height="74" rx="14" fill="#0F172A" fill-opacity="0.78" stroke="#38BDF8" stroke-opacity="0.22"/>
+    <text x="22" y="125" fill="#94A3B8" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif">TRADER</text>
+    <text x="22" y="152" fill="#F8FAFC" font-size="21" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">4Y / 1000x market-first record</text>
 
-    <rect x="0" y="202" width="292" height="78" rx="14" fill="#0F172A" fill-opacity="0.74" stroke="#F8D66D" stroke-opacity="0.21"/>
-    <text x="22" y="232" fill="#94A3B8" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif">ANALYST</text>
-    <text x="22" y="260" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Applied Statistics</text>
+    <rect x="0" y="192" width="374" height="74" rx="14" fill="#0F172A" fill-opacity="0.78" stroke="#F8D66D" stroke-opacity="0.22"/>
+    <text x="22" y="221" fill="#94A3B8" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif">AI ARCHITECT</text>
+    <text x="22" y="248" fill="#F8FAFC" font-size="21" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Stock selection, ERP, Sigma Blog</text>
   </g>
 </svg>

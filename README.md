@@ -1,90 +1,92 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Believer, Trader, Data Analyst profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Believer, Trader, AI Architect profile banner" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-![Believer](https://img.shields.io/badge/Believer-Market%20Conviction-0F172A?style=for-the-badge)
-![Trader](https://img.shields.io/badge/Trader-Sentiment%20%26%20Inflection-111827?style=for-the-badge)
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Applied%20Statistics-1F2937?style=for-the-badge)
-![AI Developer](https://img.shields.io/badge/AI%20Developer-Decision%20Systems-0B3B3A?style=for-the-badge)
+![Believer](https://img.shields.io/badge/Believer-Christian%20Faith-0F172A?style=for-the-badge)
+![Trader](https://img.shields.io/badge/Trader-Market%20Sentiment-111827?style=for-the-badge)
+![AI Architect](https://img.shields.io/badge/AI%20Architect-Agentic%20Systems-0B3B3A?style=for-the-badge)
+![Applied Statistics](https://img.shields.io/badge/Applied%20Statistics-Decision%20Intelligence-1F2937?style=for-the-badge)
 
 </div>
 
 ## Profile
 
-I operate across three compounding domains: **markets, data, and AI systems**.
+I build at the intersection of **faith, markets, and AI architecture**.
 
-As a **Trader / Believer**, I focus on price action, sentiment structure, liquidity behavior, and the precise moments where consensus begins to break. My trading philosophy is market-first: the tape is the primary source of truth, and every narrative must submit to what the market is actually doing.
-
-As a **Data Analyst**, I come from a mathematics background with a specialization in **Applied Statistics**. I build analytical systems that transform raw operational noise into metrics, dashboards, diagnostic frameworks, and decision loops.
-
-As an **AI Developer**, I turn workflows into intelligent tools: dashboards, ERP logic, research systems, documentation engines, and AI-assisted operating layers.
+My work is shaped by conviction, structured reasoning, and a strong bias toward systems that can be tested, repeated, and scaled. I think in signals, turning points, operating loops, and intelligent tools - whether the arena is a market chart, a business workflow, or an AI-native product.
 
 ## Identity Stack
 
-| Identity | Edge |
+| Identity | Description |
 | --- | --- |
-| **Believer** | Conviction under uncertainty; a bias toward execution, iteration, and asymmetric opportunity. |
-| **Trader** | 4-year / 1000x performance record; market-driven, sentiment-aware, inflection-focused. |
-| **Data Analyst** | Applied Statistics, metric architecture, business diagnostics, dashboard systems, and decision intelligence. |
+| **Believer** | Raised in a Christian family and baptized at 18. |
+| **Trader** | 4-year / 1000x return record; market-first, sentiment-driven, and focused on capturing inflection points. |
+| **AI Architect** | Builder of AI-assisted systems for stock selection, laboratory operations, content infrastructure, dashboards, and decision workflows. |
 
-## Trader / Believer
+## Believer
 
-My trading approach is built on market structure, not storytelling.
+Raised in a Christian family and baptized at 18.
 
-- **Performance**: 4-year / 1000x track record.
-- **Style**: market-driven; price action first; no dependency on fundamental narratives.
-- **Specialty**: sentiment analysis, timing windows, node recognition, and inflection capture.
-- **Method**: read the tape, isolate emotional compression, wait for confirmation, execute with conviction.
+## Trader
 
-The core belief is simple: markets reveal intent before explanations catch up.
+My trading framework is built around the market itself.
 
-## AI Systems
+I do not start from fundamental narratives. I start from price action, liquidity, sentiment pressure, crowd positioning, and the moments where the market begins to reveal a shift before the story becomes obvious.
 
-I build AI-assisted products and internal tools that make complex work easier to operate, review, and scale.
+- **Performance**: 4-year / 1000x return record.
+- **Mode**: market-first trading.
+- **Core lens**: sentiment games, emotional compression, and behavioral asymmetry.
+- **Primary edge**: identifying nodes, turning points, and high-conviction inflection windows.
 
-| Project | Direction |
+<div align="center">
+  <img src="./assets/trading-performance.svg" alt="Illustrative trading performance curve and Sharpe ratio metrics" width="100%" />
+</div>
+
+## AI Architect
+
+I use AI as an architecture layer, not just a productivity tool.
+
+My focus is to design systems where data, workflow, reasoning, and automation reinforce each other: dashboards that surface signal, ERP logic that controls operations, research systems that compound knowledge, and AI agents that reduce repeated cognitive work.
+
+| System | Direction |
 | --- | --- |
-| **Data Dashboard** | Operational visibility, metric tracking, automated reporting, and decision dashboards. |
-| [**Sigma ERP**](https://github.com/aikeywei/Sigma_04LabFlowERP) | A business management system for orders, revenue, cost, profit, permissions, reporting, and workflow control. |
-| **Sigma Blog** | A content and knowledge system for structured publishing, research output, and long-term documentation. |
+| **Stock Selection System** | Signal extraction, screening logic, market structure analysis, and decision support for trading research. |
+| [**Laboratory ERP System**](https://github.com/aikeywei/Sigma_04LabFlowERP) | Order flow, revenue, cost, profit, permission control, reporting, and operational visibility. |
+| **Sigma Blog** | Structured publishing, research output, knowledge infrastructure, and AI-assisted content operations. |
 
-## Data Analysis
+## Analytical Foundation
 
-My analytical foundation is rooted in **Applied Statistics**: probability, sampling, inference, modeling, variance, correlation, and decision under uncertainty.
+My technical foundation comes from mathematics, with a specialization in **Applied Statistics**.
 
-I am strongest where analysis has to survive real business pressure:
+That background gives my AI and trading work a sharper analytical base: probability, inference, variance, correlation, sampling, signal detection, anomaly analysis, KPI design, forecasting, and decision making under uncertainty.
 
-- KPI architecture and metric definition.
-- Operational dashboards and executive reporting.
-- Revenue, cost, profit, and performance diagnostics.
-- Cohort, funnel, trend, and anomaly analysis.
-- Forecasting, variance analysis, and signal extraction.
-- Data cleaning, business logic reconstruction, and spreadsheet-to-system migration.
-- Translating messy business questions into measurable, repeatable analytical frameworks.
+I am especially strong at:
 
-I do not treat data as decoration. I use it as an operating instrument.
+- turning messy business problems into measurable analytical frameworks;
+- designing KPI systems and executive dashboards;
+- diagnosing revenue, cost, profit, and operational performance;
+- finding signal in noisy time series, cohorts, funnels, and behavioral data;
+- rebuilding spreadsheet logic into structured systems;
+- connecting data analysis with AI automation and productized workflows.
 
 ## Selected Repositories
 
 | Repository | Signal |
 | --- | --- |
-| [Sigma_04LabFlowERP](https://github.com/aikeywei/Sigma_04LabFlowERP) | ERP thinking, process modeling, profit logic, reporting, and permission design. |
-| [trading-system](https://github.com/aikeywei/trading-system) | Trading research, practice records, market review, and knowledge structure. |
-| [trendboard-pages](https://github.com/aikeywei/trendboard-pages) | Visual presentation, information organization, and lightweight page prototyping. |
+| [Sigma_04LabFlowERP](https://github.com/aikeywei/Sigma_04LabFlowERP) | ERP architecture, business process modeling, profit logic, reporting, and permission design. |
+| [trading-system](https://github.com/aikeywei/trading-system) | Trading research, market review, practice records, and knowledge structure. |
+| [trendboard-pages](https://github.com/aikeywei/trendboard-pages) | Visual presentation, information organization, and lightweight web prototyping. |
 
 ## Operating Philosophy
 
 ```text
-Observe the signal -> Model the structure -> Build the system -> Execute the loop
+Conviction -> Signal -> Structure -> System -> Execution
 ```
 
-I care about leverage: analytical leverage, systems leverage, and decision leverage.
+The edge is not a single skill. It is the integration of belief, market judgment, statistical thinking, and AI-native system design.
 
-The work is not just to analyze data, trade markets, or build AI tools in isolation. The real edge is connecting them into one operating system:
-
-**Believer. Trader. Data Analyst.**
-
+**Believer. Trader. AI Architect.**
