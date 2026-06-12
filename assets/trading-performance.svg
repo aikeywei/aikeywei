@@ -42,7 +42,7 @@
 
   <g transform="translate(78 70)">
     <text x="0" y="24" fill="#A7F3D0" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="4">TRADING PERFORMANCE PROFILE</text>
-    <text x="0" y="70" fill="#F8FAFC" font-size="38" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">4Y / 1000x Equity Curve</text>
+    <text x="0" y="70" fill="#F8FAFC" font-size="38" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">4Y / 1,037.6x Equity Curve</text>
     <text x="0" y="104" fill="#CBD5E1" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">Market-first execution · Sentiment games · Inflection capture</text>
   </g>
 
@@ -72,36 +72,54 @@
     <text x="710" y="258" fill="#64748B" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">Y4</text>
 
     <path d="M64 232
-      C88 230 100 229 118 225
-      C136 221 143 224 158 217
-      C177 209 185 213 204 201
-      C225 188 234 193 252 181
-      C277 164 284 169 306 153
-      C332 134 342 141 366 121
-      C392 100 405 108 428 91
-      C454 73 470 82 494 68
-      C520 52 536 60 560 48
-      C590 33 608 42 637 32
-      C668 21 690 29 720 18
+      L96 226
+      L126 228
+      L156 218
+      L188 210
+      L218 213
+      L250 196
+      L284 184
+      L316 187
+      L350 160
+      L386 145
+      L420 148
+      L454 120
+      L488 105
+      L522 108
+      L558 85
+      L594 72
+      L628 75
+      L664 58
+      L694 51
+      L720 42
       L720 232 L64 232 Z" fill="url(#fillCurve)"/>
 
     <path d="M64 232
-      C88 230 100 229 118 225
-      C136 221 143 224 158 217
-      C177 209 185 213 204 201
-      C225 188 234 193 252 181
-      C277 164 284 169 306 153
-      C332 134 342 141 366 121
-      C392 100 405 108 428 91
-      C454 73 470 82 494 68
-      C520 52 536 60 560 48
-      C590 33 608 42 637 32
-      C668 21 690 29 720 18" stroke="url(#curve)" stroke-width="4" stroke-linecap="round" filter="url(#lineGlow)"/>
+      L96 226
+      L126 228
+      L156 218
+      L188 210
+      L218 213
+      L250 196
+      L284 184
+      L316 187
+      L350 160
+      L386 145
+      L420 148
+      L454 120
+      L488 105
+      L522 108
+      L558 85
+      L594 72
+      L628 75
+      L664 58
+      L694 51
+      L720 42" stroke="url(#curve)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#lineGlow)"/>
 
-    <circle cx="720" cy="18" r="6" fill="#F8D66D"/>
-    <circle cx="720" cy="18" r="13" stroke="#F8D66D" stroke-opacity="0.34" stroke-width="2"/>
-    <text x="594" y="52" fill="#F8FAFC" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">1000x</text>
-    <text x="594" y="76" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">controlled drawdown profile</text>
+    <circle cx="720" cy="42" r="6" fill="#F8D66D"/>
+    <circle cx="720" cy="42" r="13" stroke="#F8D66D" stroke-opacity="0.34" stroke-width="2"/>
+    <text x="590" y="68" fill="#F8FAFC" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">1,037.6x</text>
+    <text x="590" y="92" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">log-scale curve, controlled pullbacks</text>
   </g>
 
   <g transform="translate(884 78)">
@@ -114,27 +132,27 @@
     <g transform="translate(24 136)">
       <rect x="0" y="0" width="244" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.18"/>
       <text x="16" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">SHARPE RATIO</text>
-      <text x="166" y="38" fill="#F8FAFC" font-size="28" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">5.82</text>
+      <text x="166" y="38" fill="#F8FAFC" font-size="28" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">5.47</text>
     </g>
 
     <g transform="translate(24 204)">
       <rect x="0" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#A7F3D0" stroke-opacity="0.16"/>
       <text x="14" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">SORTINO</text>
-      <text x="14" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">9.64</text>
+      <text x="14" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">8.93</text>
 
       <rect x="128" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#F8D66D" stroke-opacity="0.16"/>
       <text x="142" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">MAX DD</text>
-      <text x="142" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">-11.8%</text>
+      <text x="142" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">-10.6%</text>
     </g>
 
     <g transform="translate(24 272)">
       <rect x="0" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.16"/>
       <text x="14" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">CAGR</text>
-      <text x="14" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">462%</text>
+      <text x="14" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">467.5%</text>
 
       <rect x="128" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#A7F3D0" stroke-opacity="0.16"/>
       <text x="142" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">CALMAR</text>
-      <text x="142" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">39.2</text>
+      <text x="142" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">44.1</text>
     </g>
   </g>
 </svg>
