@@ -24,7 +24,7 @@ My work is shaped by conviction, structured reasoning, and a strong bias toward 
 | Identity | Description |
 | --- | --- |
 | **Believer** | Raised in a Christian family and baptized at 18. |
-| **Trader** | 4-year / 1000x+ return record; market-first, sentiment-driven, and focused on capturing inflection points. |
+| **Trader** | 4-year / 100,000%+ equity record; market-first, sentiment-driven, and focused on capturing inflection points. |
 | **AI Architect** | Builder of AI-assisted systems for stock selection, laboratory operations, content infrastructure, dashboards, and decision workflows. |
 
 ## Believer
@@ -37,13 +37,13 @@ My trading framework is built around the market itself.
 
 I do not start from fundamental narratives. I start from price action, liquidity, sentiment pressure, crowd positioning, and the moments where the market begins to reveal a shift before the story becomes obvious.
 
-- **Performance**: 4-year / 1000x+ return record.
+- **Performance**: 4-year / 100,000%+ equity record.
 - **Mode**: market-first trading.
 - **Core lens**: sentiment games, emotional compression, and behavioral asymmetry.
 - **Primary edge**: identifying nodes, turning points, and high-conviction inflection windows.
 
 <div align="center">
-  <img src="./assets/trading-performance.svg" alt="Illustrative trading performance curve and Sharpe ratio metrics" width="100%" />
+  <img src="./assets/trading-performance.svg" alt="Normalized trading equity percentage curve and quantitative metrics" width="100%" />
 </div>
 
 ## AI Architect
