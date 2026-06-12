@@ -60,10 +60,10 @@
     <line x1="556" y1="32" x2="556" y2="232" stroke="#FFFFFF" stroke-opacity="0.06"/>
     <line x1="720" y1="32" x2="720" y2="232" stroke="#FFFFFF" stroke-opacity="0.1"/>
 
-    <text x="8" y="237" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">100%</text>
-    <text x="-3" y="174" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">1,000%</text>
-    <text x="-12" y="111" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">10,000%</text>
-    <text x="-20" y="48" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">100,000%</text>
+    <text x="10" y="237" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">100%</text>
+    <text x="2" y="174" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">1,000%</text>
+    <text x="0" y="111" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">10,000%</text>
+    <text x="0" y="48" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">100,000%</text>
 
     <text x="58" y="258" fill="#64748B" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">Y0</text>
     <text x="218" y="258" fill="#64748B" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">Y1</text>
@@ -72,148 +72,150 @@
     <text x="710" y="258" fill="#64748B" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">Y4</text>
 
     <path d="M64.0 232.0
-      L77.4 227.4
-      L90.8 222.8
-      L104.2 218.4
-      L117.6 213.8
-      L130.9 209.2
-      L144.3 204.7
-      L157.7 200.1
-      L171.1 195.6
-      L184.5 191.0
-      L197.9 186.5
-      L211.3 188.3
-      L224.7 183.8
-      L238.0 179.3
-      L251.4 174.7
-      L264.8 170.1
-      L278.2 171.8
-      L291.6 167.3
-      L305.0 162.7
-      L318.4 158.2
-      L331.8 153.6
-      L345.1 149.1
-      L358.5 144.5
-      L371.9 140.0
-      L385.3 141.8
-      L398.7 137.3
-      L412.1 132.7
-      L425.5 128.2
-      L438.9 123.6
-      L452.2 119.0
-      L465.6 114.5
-      L479.0 109.9
-      L492.4 105.4
-      L505.8 100.8
-      L519.2 96.3
-      L532.6 98.1
-      L546.0 93.6
-      L559.3 89.0
-      L572.7 84.5
-      L586.1 79.9
-      L599.5 75.4
-      L612.9 70.8
-      L626.3 66.3
-      L639.7 61.7
-      L653.1 57.2
-      L666.4 60.2
-      L679.8 55.7
-      L693.2 51.1
-      L706.6 46.6
+      L77.1 230.4
+      L90.2 228.2
+      L103.4 226.1
+      L116.5 223.2
+      L129.6 220.7
+      L142.7 217.6
+      L155.8 215.5
+      L169.0 216.1
+      L182.1 214.7
+      L195.2 212.2
+      L208.3 208.3
+      L221.4 203.6
+      L234.6 199.3
+      L247.7 194.6
+      L260.8 189.7
+      L273.9 186.4
+      L287.0 187.7
+      L300.2 184.9
+      L313.3 180.8
+      L326.4 175.1
+      L339.5 169.6
+      L352.6 165.9
+      L365.8 166.9
+      L378.9 165.2
+      L392.0 162.9
+      L405.1 156.5
+      L418.2 149.8
+      L431.4 143.1
+      L444.5 135.4
+      L457.6 129.1
+      L470.7 124.4
+      L483.8 125.1
+      L497.0 123.9
+      L510.1 119.1
+      L523.2 112.8
+      L536.3 106.8
+      L549.4 100.6
+      L562.6 94.4
+      L575.7 95.3
+      L588.8 91.8
+      L601.9 85.8
+      L615.0 78.3
+      L628.2 71.0
+      L641.3 64.8
+      L654.4 67.9
+      L667.5 63.0
+      L680.6 57.0
+      L693.8 50.9
+      L706.9 45.6
       L720.0 42.0
       L720 232 L64 232 Z" fill="url(#fillCurve)"/>
 
     <path d="M64.0 232.0
-      L77.4 227.4
-      L90.8 222.8
-      L104.2 218.4
-      L117.6 213.8
-      L130.9 209.2
-      L144.3 204.7
-      L157.7 200.1
-      L171.1 195.6
-      L184.5 191.0
-      L197.9 186.5
-      L211.3 188.3
-      L224.7 183.8
-      L238.0 179.3
-      L251.4 174.7
-      L264.8 170.1
-      L278.2 171.8
-      L291.6 167.3
-      L305.0 162.7
-      L318.4 158.2
-      L331.8 153.6
-      L345.1 149.1
-      L358.5 144.5
-      L371.9 140.0
-      L385.3 141.8
-      L398.7 137.3
-      L412.1 132.7
-      L425.5 128.2
-      L438.9 123.6
-      L452.2 119.0
-      L465.6 114.5
-      L479.0 109.9
-      L492.4 105.4
-      L505.8 100.8
-      L519.2 96.3
-      L532.6 98.1
-      L546.0 93.6
-      L559.3 89.0
-      L572.7 84.5
-      L586.1 79.9
-      L599.5 75.4
-      L612.9 70.8
-      L626.3 66.3
-      L639.7 61.7
-      L653.1 57.2
-      L666.4 60.2
-      L679.8 55.7
-      L693.2 51.1
-      L706.6 46.6
+      L77.1 230.4
+      L90.2 228.2
+      L103.4 226.1
+      L116.5 223.2
+      L129.6 220.7
+      L142.7 217.6
+      L155.8 215.5
+      L169.0 216.1
+      L182.1 214.7
+      L195.2 212.2
+      L208.3 208.3
+      L221.4 203.6
+      L234.6 199.3
+      L247.7 194.6
+      L260.8 189.7
+      L273.9 186.4
+      L287.0 187.7
+      L300.2 184.9
+      L313.3 180.8
+      L326.4 175.1
+      L339.5 169.6
+      L352.6 165.9
+      L365.8 166.9
+      L378.9 165.2
+      L392.0 162.9
+      L405.1 156.5
+      L418.2 149.8
+      L431.4 143.1
+      L444.5 135.4
+      L457.6 129.1
+      L470.7 124.4
+      L483.8 125.1
+      L497.0 123.9
+      L510.1 119.1
+      L523.2 112.8
+      L536.3 106.8
+      L549.4 100.6
+      L562.6 94.4
+      L575.7 95.3
+      L588.8 91.8
+      L601.9 85.8
+      L615.0 78.3
+      L628.2 71.0
+      L641.3 64.8
+      L654.4 67.9
+      L667.5 63.0
+      L680.6 57.0
+      L693.8 50.9
+      L706.9 45.6
       L720.0 42.0" stroke="url(#curve)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#lineGlow)"/>
 
-    <path d="M653.1 57.2 L666.4 60.2" stroke="#F87171" stroke-width="4" stroke-linecap="round"/>
-    <text x="538" y="52" fill="#FCA5A5" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">Max DD -10.6%</text>
+    <path d="M641.3 64.8 L654.4 67.9" stroke="#F87171" stroke-width="4" stroke-linecap="round"/>
+    <text x="538" y="91" fill="#FCA5A5" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">Max DD -10.6%</text>
 
     <circle cx="720" cy="42" r="6" fill="#F8D66D"/>
     <circle cx="720" cy="42" r="13" stroke="#F8D66D" stroke-opacity="0.34" stroke-width="2"/>
-    <text x="580" y="68" fill="#F8FAFC" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">103,760.0%</text>
-    <text x="580" y="92" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">monthly ledger curve · log scale</text>
+    <text x="575" y="28" fill="#F8FAFC" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">103,760.0%</text>
+    <text x="575" y="51" fill="#94A3B8" font-size="13" font-family="Inter, Segoe UI, Arial, sans-serif">monthly ledger curve · log scale</text>
   </g>
 
-  <g transform="translate(884 78)">
-    <rect x="0" y="0" width="292" height="354" rx="20" fill="#0F172A" fill-opacity="0.64" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <g transform="translate(868 72)">
+    <rect x="0" y="0" width="320" height="370" rx="20" fill="#0F172A" fill-opacity="0.64" stroke="#FFFFFF" stroke-opacity="0.1"/>
     <text x="24" y="38" fill="#A7F3D0" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="3">LEDGER METRICS</text>
     <text x="24" y="80" fill="#F8FAFC" font-size="34" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">Equity %</text>
     <text x="24" y="106" fill="#94A3B8" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif">Initial capital = 100.0%</text>
     <text x="24" y="126" fill="#94A3B8" font-size="15" font-family="Inter, Segoe UI, Arial, sans-serif">Compounded with ledger-style drawdowns</text>
 
     <g transform="translate(24 136)">
-      <rect x="0" y="0" width="244" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.18"/>
+      <rect x="0" y="0" width="272" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.18"/>
       <text x="16" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">FINAL EQUITY</text>
-      <text x="74" y="38" fill="#F8FAFC" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">103,760.0%</text>
+      <text x="86" y="38" fill="#F8FAFC" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">103,760.0%</text>
     </g>
 
     <g transform="translate(24 204)">
-      <rect x="0" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#A7F3D0" stroke-opacity="0.16"/>
+      <rect x="0" y="0" width="130" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#A7F3D0" stroke-opacity="0.16"/>
       <text x="14" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">TOTAL RETURN</text>
       <text x="14" y="42" fill="#F8FAFC" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">103,660.0%</text>
 
-      <rect x="128" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#F8D66D" stroke-opacity="0.16"/>
-      <text x="142" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">MAX DD</text>
-      <text x="142" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">-10.6%</text>
+      <rect x="142" y="0" width="130" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#F8D66D" stroke-opacity="0.16"/>
+      <text x="156" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">MAX DD</text>
+      <text x="156" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">-10.6%</text>
     </g>
 
     <g transform="translate(24 272)">
-      <rect x="0" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.16"/>
+      <rect x="0" y="0" width="130" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#38BDF8" stroke-opacity="0.16"/>
       <text x="14" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">SHARPE</text>
       <text x="14" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">5.47</text>
 
-      <rect x="128" y="0" width="116" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#A7F3D0" stroke-opacity="0.16"/>
-      <text x="142" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">CAGR</text>
-      <text x="142" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">467.5%</text>
+      <rect x="142" y="0" width="130" height="54" rx="12" fill="#030712" fill-opacity="0.56" stroke="#A7F3D0" stroke-opacity="0.16"/>
+      <text x="156" y="22" fill="#94A3B8" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif">CAGR</text>
+      <text x="156" y="42" fill="#F8FAFC" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">467.5%</text>
     </g>
 
     <text x="24" y="340" fill="#94A3B8" font-size="11" font-family="Inter, Segoe UI, Arial, sans-serif">SORTINO 8.93 · CALMAR 44.1</text>
