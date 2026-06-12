@@ -42,10 +42,6 @@ I do not start from fundamental narratives. I start from price action, liquidity
 - **Core lens**: sentiment games, emotional compression, and behavioral asymmetry.
 - **Primary edge**: identifying nodes, turning points, and high-conviction inflection windows.
 
-<div align="center">
-  <img src="./assets/trading-performance.svg" alt="Normalized trading equity percentage curve and quantitative metrics" width="100%" />
-</div>
-
 ## AI Architect
 
 I use AI as an architecture layer, not just a productivity tool.
