@@ -1,77 +1,90 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Aikey Wei - Data Analyst and systems builder" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Believer, Trader, Data Analyst profile banner" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-aikeywei-181717?style=for-the-badge&logo=github)](https://github.com/aikeywei)
-![Python](https://img.shields.io/badge/Python-Data%20Workflows-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Assisted%20Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Believer](https://img.shields.io/badge/Believer-Market%20Conviction-0F172A?style=for-the-badge)
+![Trader](https://img.shields.io/badge/Trader-Sentiment%20%26%20Inflection-111827?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Applied%20Statistics-1F2937?style=for-the-badge)
+![AI Developer](https://img.shields.io/badge/AI%20Developer-Decision%20Systems-0B3B3A?style=for-the-badge)
 
 </div>
 
-## About
+## Profile
 
-Hi, I am **Aikey Wei**.
+I operate across three compounding domains: **markets, data, and AI systems**.
 
-I work at the intersection of **data analysis, business process design, and AI-assisted systems**. My interest is turning fragmented information into tools, dashboards, and repeatable workflows that make decisions easier to review and improve.
+As a **Trader / Believer**, I focus on price action, sentiment structure, liquidity behavior, and the precise moments where consensus begins to break. My trading philosophy is market-first: the tape is the primary source of truth, and every narrative must submit to what the market is actually doing.
 
-我更关注“能真正落地的系统”：从业务问题出发，整理数据口径，建立指标逻辑，再把它变成可以复用、可以追踪、可以持续迭代的工具。
+As a **Data Analyst**, I come from a mathematics background with a specialization in **Applied Statistics**. I build analytical systems that transform raw operational noise into metrics, dashboards, diagnostic frameworks, and decision loops.
 
-## Current Focus
+As an **AI Developer**, I turn workflows into intelligent tools: dashboards, ERP logic, research systems, documentation engines, and AI-assisted operating layers.
 
-- Building practical data workflows with Python, SQL, Excel, and lightweight web tools.
-- Designing business systems around traceability, reporting, cost, profit, and process control.
-- Exploring AI-assisted research, documentation, automation, and personal knowledge workflows.
-- Turning complex work into clean structures: metrics, dashboards, operating playbooks, and review loops.
+## Identity Stack
 
-## Selected Work
+| Identity | Edge |
+| --- | --- |
+| **Believer** | Conviction under uncertainty; a bias toward execution, iteration, and asymmetric opportunity. |
+| **Trader** | 4-year / 1000x performance record; market-driven, sentiment-aware, inflection-focused. |
+| **Data Analyst** | Applied Statistics, metric architecture, business diagnostics, dashboard systems, and decision intelligence. |
 
-| Project | What it reflects | Stack / Direction |
-| --- | --- | --- |
-| [Sigma_04LabFlowERP](https://github.com/aikeywei/Sigma_04LabFlowERP) | A business management loop for lab testing orders, revenue, costs, profit accounting, reports, permissions, and future integrations. | ERP thinking, process design, reporting |
-| [trading-system](https://github.com/aikeywei/trading-system) | A personal research and review system around trading, knowledge assets, practice records, and output. | Python, research workflow, knowledge base |
-| [trendboard-pages](https://github.com/aikeywei/trendboard-pages) | A lightweight browser page used for presenting and organizing information visually. | HTML, visual page, prototype |
+## Trader / Believer
 
-## How I Work
+My trading approach is built on market structure, not storytelling.
+
+- **Performance**: 4-year / 1000x track record.
+- **Style**: market-driven; price action first; no dependency on fundamental narratives.
+- **Specialty**: sentiment analysis, timing windows, node recognition, and inflection capture.
+- **Method**: read the tape, isolate emotional compression, wait for confirmation, execute with conviction.
+
+The core belief is simple: markets reveal intent before explanations catch up.
+
+## AI Systems
+
+I build AI-assisted products and internal tools that make complex work easier to operate, review, and scale.
+
+| Project | Direction |
+| --- | --- |
+| **Data Dashboard** | Operational visibility, metric tracking, automated reporting, and decision dashboards. |
+| [**Sigma ERP**](https://github.com/aikeywei/Sigma_04LabFlowERP) | A business management system for orders, revenue, cost, profit, permissions, reporting, and workflow control. |
+| **Sigma Blog** | A content and knowledge system for structured publishing, research output, and long-term documentation. |
+
+## Data Analysis
+
+My analytical foundation is rooted in **Applied Statistics**: probability, sampling, inference, modeling, variance, correlation, and decision under uncertainty.
+
+I am strongest where analysis has to survive real business pressure:
+
+- KPI architecture and metric definition.
+- Operational dashboards and executive reporting.
+- Revenue, cost, profit, and performance diagnostics.
+- Cohort, funnel, trend, and anomaly analysis.
+- Forecasting, variance analysis, and signal extraction.
+- Data cleaning, business logic reconstruction, and spreadsheet-to-system migration.
+- Translating messy business questions into measurable, repeatable analytical frameworks.
+
+I do not treat data as decoration. I use it as an operating instrument.
+
+## Selected Repositories
+
+| Repository | Signal |
+| --- | --- |
+| [Sigma_04LabFlowERP](https://github.com/aikeywei/Sigma_04LabFlowERP) | ERP thinking, process modeling, profit logic, reporting, and permission design. |
+| [trading-system](https://github.com/aikeywei/trading-system) | Trading research, practice records, market review, and knowledge structure. |
+| [trendboard-pages](https://github.com/aikeywei/trendboard-pages) | Visual presentation, information organization, and lightweight page prototyping. |
+
+## Operating Philosophy
 
 ```text
-Business question -> Data structure -> Metric logic -> Working tool -> Review loop
+Observe the signal -> Model the structure -> Build the system -> Execute the loop
 ```
 
-I like systems that are:
+I care about leverage: analytical leverage, systems leverage, and decision leverage.
 
-- **Clear**: every metric has a source, definition, and owner.
-- **Traceable**: results can be checked back to original records.
-- **Practical**: tools should reduce repeated work, not add decoration.
-- **Iterative**: a first usable version is better than a perfect plan that never ships.
+The work is not just to analyze data, trade markets, or build AI tools in isolation. The real edge is connecting them into one operating system:
 
-## Toolbox
-
-<div>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-0F172A?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/HTML-0F172A?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Markdown-0F172A?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AI%20Tools-0F172A?style=flat-square&logo=openai&logoColor=white" alt="AI tools" />
-</div>
-
-## GitHub Snapshot
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aikeywei&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Aikey Wei GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikeywei&layout=compact&hide_border=true&theme=transparent" alt="Aikey Wei top languages" />
-</div>
-
-## Notes
-
-I use GitHub as a place to structure work, test ideas, and document systems. Some repositories are experiments, some are working notes, and some are gradually becoming reusable products.
-
-> Believer & Data Analyst.
+**Believer. Trader. Data Analyst.**
 
