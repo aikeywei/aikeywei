@@ -1,19 +1,6 @@
-<h1 align="center">Locking</h1>
-
 <p align="center">
-  Christian · Trading · AI
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-home-dark.svg">
+    <img src="./assets/profile-home-light.svg" alt="Locking profile" width="100%">
+  </picture>
 </p>
-
----
-
-## About
-
-Christian.
-
-Interested in trading and AI.
-
-## Skills
-
-| Skill | Notes |
-| --- | --- |
-| [希玛观察](https://github.com/aikeywei/sigma-insights-skill) | A small skill for keeping Sigma-related observations organized. |
